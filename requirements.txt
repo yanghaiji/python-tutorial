@@ -10,7 +10,8 @@ jsonpath==0.82
 loguru==0.6.0
 locust==2.12.2
 PyMySQL==1.0.2
-
+pytest-assume==2.4.3
+pytest-dependency==0.5.1
 
 
 
